@@ -26,4 +26,4 @@
 
 ## Snake eating my contribution graph
 ## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/Extra-codes/Extra-codes/blob/output/github-contribution-grid-snake.gif)
+[![Generate Snake](https://github.com/Extra-codes/Extra-codes/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/Extra-codes/Extra-codes/actions/workflows/main.yml)
