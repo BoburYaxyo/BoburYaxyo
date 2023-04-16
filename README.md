@@ -12,18 +12,9 @@
 <br>
 <br>
 <br>
-## 📊 My Github Stats
-  <br/>
-    <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Bobur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Extra-codes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extra-codesi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>
-<br/>
 
 
 
-## Snake eating my contribution graph
-## Watch my contribution graph eaten by the snake🐍
-https://github.com/Extra-codes/Extra-codes/blob/output/github-contribution-grid-snake.svg
+## Snake eating my contributions
+<img align="center" width="100%" src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
+
