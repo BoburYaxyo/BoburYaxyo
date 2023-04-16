@@ -1,7 +1,7 @@
 #
 
 <p align="center">
-  <img width="45%" height="auto" src="https://user-images.githubusercontent.com/72156168/130989446-dffc4c7e-3b3d-4177-a877-6c90e9d6e292.png" />
+  <img width="45%" height="auto" src="https://e9i3r2v2.stackpathcdn.com/wp-content/uploads/2022/12/AdobeStock_405526181-1024x512.jpeg" />
   </p>
 <h1 align="center">Hi 👋, I'm Yaxyoxojayev Bobur</h1>
 <h3 align="center">A passionate developer from Uzbekistan</h3>
