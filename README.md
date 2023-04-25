@@ -12,6 +12,9 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/256/api-settings.png" alt="mongodb" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-djangoproject-2752208-2285025.png?f=avif&w=256" alt="mongodb" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a></span></p>
 <br>
 
+![mocha user preview](https://github-readme-stats.vercel.app/api?username=Extra-codes&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+![mocha repo preview](https://github-readme-stats.vercel.app/api/pin/?username=Extra-codes&repo=Extra-codes&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
