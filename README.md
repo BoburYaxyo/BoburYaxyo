@@ -5,7 +5,7 @@
   </p>  
 <h1 align="center">Hi 👋, I'm Yaxyoxojayev Bobur</h1>      
 <h3 align="center">A backend-frontend developer from Uzbekistan</h3>  
-<br>
+<br> 
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <span style="display: flex;">
