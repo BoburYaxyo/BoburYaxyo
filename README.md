@@ -1,6 +1,6 @@
 #                     
                                             
-<p align="center">                        
+<p align="center">                         
   <img max-width="45%" max-height="330px" src="https://avatars.githubusercontent.com/u/130076274? s=400&u=1a46595d6da250e4771bdad7a3cbf719d2ea0c89&v=4" />           
   </p>           
 <h1 align="center">Hi 👋, I'm Yaxyoxojayev Bobur</h1>                
